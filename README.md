@@ -43,7 +43,7 @@ Send a POST request to `/sessions` with the following JSON structure:
     "coach_hash_id": "<unique_coach_identifier>",
     "client_hash_id": "<unique_client_identifier>",
     "start": "<start_datetime>",
-    "duration": <duration_in_minutes>
+    "duration": "<duration_in_minutes>"
   }
 }
 ```
