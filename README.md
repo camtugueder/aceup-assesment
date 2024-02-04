@@ -58,6 +58,7 @@ bundle exec rspec
 
 ## Future Improvements
 1. **Authentication and Authorization**: Implement user authentication and session-specific authorization to ensure data security and privacy.
+2. **Further validations**:It may also be a good idea to validate the same overlap for clients, so they're not able to book two sessions with different coaches at the same time. Then again, it may be a valid use case.
 2. **API Versioning**: Introduce versioning to the API to allow for backward compatibility and smoother transitions as new features are introduced.
 3. **Advanced Scheduling Options**: Add support for recurring sessions, cancellations, and rescheduling.
 4. **Notification System**: Implement a system to notify coaches and clients about upcoming sessions, changes, or cancellations.
